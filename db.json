@@ -1,3 +1,30 @@
 [
-  {"name":"Nikita"}
+	{
+		"text": "Hello",
+		"translation": "Привет",
+		"group_id": 0,
+	},
+	{
+		"text": ",",
+		"group_id": -1,
+	},
+	{
+		"text": "my",
+		"translation": "мое",
+		"group_id": 0,
+	},
+	{
+		"text": "name",
+		"translation": "имя",
+		"group_id": 0,
+	},
+	{
+		"text": "Nikita",
+		"translation": "Никита",
+		"group_id": 0,
+	},
+	{
+		"text": "!",
+		"group_id": -1,
+	}
 ]
