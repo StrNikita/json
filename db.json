@@ -3,7 +3,7 @@
 		{
 			"text": "Hello",
 			"translation": "Привет",
-			"group_id": 0
+			"group_id": 1
 		},
 		{
 			"text": ",",
@@ -12,22 +12,22 @@
 		{
 			"text": "my",
 			"translation": "мое",
-			"group_id": 0
+			"group_id": 2
 		},
 		{
 			"text": "name",
 			"translation": "имя",
-			"group_id": 0
+			"group_id": 3
 		},
 		{
 			"text": "is",
 			"translation": "??",
-			"group_id": 0
+			"group_id": 4
 		},
 		{
 			"text": "Nikita",
 			"translation": "Никита",
-			"group_id": 0
+			"group_id": 5
 		},
 		{
 			"text": "!",
