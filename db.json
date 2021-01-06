@@ -36,13 +36,13 @@
 	],
 	"users": [
 		{
-			"username": "Nikita",
+			"username": "nstratiy@gmail.com",
 			"password": 1234,
 			"level": "Intermedeate",
 			"id-user": 1
 		},
 		{
-			"username": "Sergay",
+			"username": "sergay@gmail.com",
 			"password": 1234,
 			"level": "Pre-intermediate",
 			"id-user": 2
