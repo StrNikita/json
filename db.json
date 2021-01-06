@@ -33,5 +33,20 @@
 			"text": "!",
 			"group_id": -1
 		}
+	],
+	"users": [
+		{
+			"username": "Nikita",
+			"password": 1234,
+			"level": "Intermedeate",
+			"id-user": 1
+		},
+		{
+			"username": "Sergay",
+			"password": 1234,
+			"level": "Pre-intermediate",
+			"id-user": 2
+		}
 	]
+	
 }
